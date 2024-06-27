@@ -35,7 +35,7 @@ link
 ##################################
 ####   define variables
 ################################## 
-set     clock_period1   8 
+set     clock_period1   5 
 set     chip_area       6500
 ##################################
 ####   deal with clock
